@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+.ipynb_checkpoints/
+
+# Uncomment below if your dataset file is large and you don't want to push it
+# dataset/
